@@ -8,7 +8,7 @@ A premium browser extension that provides a visual overhaul and power-user featu
 - **Custom Accent Colors:** Make it yours with custom color themes.
 - **Comment Enhancements:** Colored depth lines and auto-collapse for bot comments.
 - **Keyboard Shortcuts:** Fast navigation (J/K), upvote/downvote (A/Z), and a Command Palette (Ctrl+K).
-- **Undertale Theme:** A retro, pixel-art aesthetic for fans of classic RPGs.
+- **Classic Yellow Theme:** A retro, square yellow theme.
 
 ## 🚀 Installation
 
